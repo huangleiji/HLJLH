@@ -91,6 +91,8 @@
 
 ## 工具：app软件  woop 卡片。
  - tip：同时可以记录一直以来自己愿望的变化。更了解自己。
+ - ![英文原版](http://upload-images.jianshu.io/upload_images/695618-40c4288d4bc809a6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ - ![中文版本](http://upload-images.jianshu.io/upload_images/695618-24c57dd984a63a1c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 效果：
 - 像情绪，也像潮水一样，不如意的事情和心情都会有反复，平静看待。这个方法可以提升行动力，帮助克服压力、不安和焦虑，进而帮助愿望实现。但是，不是一次性就能帮助完全实现。
