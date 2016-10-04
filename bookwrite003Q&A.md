@@ -1,3 +1,5 @@
+[认知写作课第三期答疑](https://github.com/OpenMindClub/Writer003/wiki)
+
 #1w 答疑整理
 
 
