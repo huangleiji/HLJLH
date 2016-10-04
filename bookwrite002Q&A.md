@@ -1,3 +1,5 @@
+[认知写作课第二期答疑](https://github.com/OpenMindClub/Writer002/tree/master/QA)
+
 # 1w 写作之难答疑纪要 
 
 ~ 1wd6 19:42 ，每周例行集体答疑纪要。
